@@ -1,6 +1,10 @@
 
 # Created by https://www.gitignore.io/api/windows,android,sublimetext,androidstudio
 
+report.html
+log.html
+output.xml
+
 ### Android ###
 # Built application files
 *.apk
